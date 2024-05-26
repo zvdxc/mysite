@@ -1,0 +1,15 @@
+//Custom 400 errors
+ErrorDocument 400 FEHLER
+
+//Custom 401 errors
+ErrorDocument 401 FEHLER
+
+//Custom 403 errors
+ErrorDocument 403 FEHLER
+
+//Custom 404 errors
+ErrorDocument 404 FEHLER
+
+//Custom 500 errors
+ErrorDocument 500 FEHLER
+  

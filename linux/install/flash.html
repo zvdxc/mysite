@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+  <head>
+    <title>LinuxPage</title>
+    <style>
+      h1 {text-align: center;}
+      p {text-align: center;}
+      div {text-align: center;}
+      
+
+      .button {
+            background-color: #04AA6D; /* Green */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            align-self: center;
+            align-items: center;
+            align-content: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            -webkit-transition-duration: 0.4s; /* Safari */
+            transition-duration: 0.4s;
+            }
+
+            .button1:hover {
+            box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+            }
+
+            .container {
+            height: 200px;
+            position: relative;
+            border: 3px solid green;
+            }
+
+            .vertical-center {
+            margin: 0;
+            position: absolute;
+            top: 50%;
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+            }
+
+      </style>
+  </head>
+  <body>
+    <h1>Installation</h1>
+    <p>Also, Distro steht fest. Jetzt geht es an die Installation</p>
+    <p>Man benoetigt: Einen PC/Laptop mit Adminrechten, ein Smartphone und einen USB, der formatiert werden kann</p>
+    <p>Als erstes muss man eine ISO des Distros herunterladen. Hier ist ein direkter Link zu meiner Empfehlung (Aktualisiert 25.04.2024)</p>
+
+        <button onclick="parent.location='https://mirror.netcologne.de/linuxmint/iso/stable/21.3/linuxmint-21.3-cinnamon-64bit.iso'" class="button button1">Linux Mint ISO</button>
+    <p>Danach muss man sie auf einen USB-Stick flashen. Dafuer nutze ich gerne BalenaEtcher.</p>
+    <button onclick="parent.location='https://etcher.balena.io/'" class="button button1">BalenaEtcher</button>
+    <p>Anleitung: Etcher oeffnen, ISO auswaehlen, USB auswaehlen, FLASH</p>
+    <p>ACHTUNG: ALLE DATEN AUF DEM USB WERDEN GELOESCHT</p>
+    <p>Und jetzt warten...</p>
+    <p>Wenn fertig: Diese Seite auf dem Smartphone aufrufen.</p>
+    <p>Hier gehts weiter:</p>
+    <p>1. Vom USB starten. Dazu muss man das Bootmenue aufrufen, indem man den Rechner/Laptop herunterfaehrt, und beim Hochfahren eine bestimmte Taste drueckt. Hier ist eine Seite mit Beispielen fuer ein paar Marken: </p>
+    <button onclick="parent.location='https://www.dnitechnology.com/computer-repair/computer-boot-key-chart/'" class="button button1">Tasten</button>
+     <p>Hier muss man jetzt den USB mit den Pfeiltasten auswaehlen und mit ENTER bestätigen.</p>
+     <p>Danach zum Ausprobieren die erste Option waehlen, zum Installieren Install Linux Mint auswaehlen.</p>
+     <p>Fertig!</p>   
+    </body>
+  </html>
