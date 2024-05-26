@@ -1,5 +1,0 @@
-#Protect Directory
-AuthName "Dialog prompt"
-AuthType Basic
-AuthUserFile /home/www/home.zvdxc.dns-dynamic.net/bp/.htpasswd
-Require valid-user
