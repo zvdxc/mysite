@@ -1,1 +1,113 @@
-<p>Placeholer</p>
+ <!DOCTYPE html>
+    <head>
+        <title>JannPAGE</title>
+        <style>
+            h1 {text-align: center;}
+            p {text-align: center;}
+            div {text-align: center;}
+
+            .button {
+            background-color: #04AA6D; /* Green */
+            border: none;
+            color: white;
+            padding: 15px 32px;
+            text-align: center;
+            align-self: center;
+            align-items: center;
+            align-content: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            -webkit-transition-duration: 0.4s; /* Safari */
+            transition-duration: 0.4s;
+            }
+
+            .button1:hover {
+            box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+            }
+
+            .container {
+            height: 200px;
+            position: relative;
+            border: 3px solid green;
+            }
+
+            .vertical-center {
+            margin: 0;
+            position: absolute;
+            top: 50%;
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+            }
+            </style>
+            <script>
+
+                // Define dataLayer and the gtag function.
+                
+                window.dataLayer = window.dataLayer || [];
+                
+                function gtag(){dataLayer.push(arguments);}
+                 
+                
+                // Set default consent for specific regions according to your requirements
+                
+                gtag('consent', 'default', {
+                
+                  'ad_storage': 'denied',
+                
+                  'ad_user_data': 'denied',
+                
+                  'ad_personalization': 'denied',
+                
+                  'analytics_storage': 'denied',
+                
+                 'regions':[<list of ISO 3166-2 region codes>]
+                
+                });
+                
+                // Set default consent for all other regions according to your requirements
+                
+                gtag('consent', 'default', {
+                
+                  'ad_storage': 'denied',
+                
+                  'ad_user_data': 'denied',
+                
+                  'ad_personalization': 'denied',
+                
+                  'analytics_storage': 'denied'
+                
+                });
+                 
+                
+                </script>
+            <script src="https://consent.cookiefirst.com/sites/home.zvdxc.dns-dynamic.net-df9d6868-2593-4daa-beed-a95b326fbe71/consent.js"></script>
+    </head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-6V9Y5V0N0P"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-6V9Y5V0N0P');
+</script>
+
+    <body>
+        <h1>Willkommen!</h1>
+        <p>Bitte Option auswaehlen</p>
+        <p>ACHTUNG: Migration zu neuem Provider, manche Seiten funktionieren wahrscheinlich nicht.</p>
+        <div class="container">
+            <div class="vertical-center">
+        <button onclick="parent.location='http://projekte.zvdxc.dns-dynamic.net/'" class="button button1">Projektseite</button>
+        <button onclick="parent.location='http://home.zvdxc.dns-dynamic.net/linux.html'" class="button button1">Linux-Tutorials</button>
+        <button onclick="parent.location='https://shattereddisk.github.io/rickroll/rickroll.mp4'" class="button button1">Werden sie reich mit diesem simplen Trick! :)</button>
+        <button onclick="parent.location='http://home.zvdxc.dns-dynamic.net/parkme'" class="button button1">Spiel Parkme</button>
+        <button onclick="parent.location='http://home.zvdxc.dns-dynamic.net/wooshbird'" class="button button1">Spiel Wooshbird</button>
+        </div>
+        </div>
+   </body>
+ </html>
