@@ -1,0 +1,6 @@
+gh pr create
+echo Enter PR ID
+read id
+echo $id
+gh pr review $id
+gh pr merge $id --admin
