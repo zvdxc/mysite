@@ -41,47 +41,6 @@
             -ms-transform: translateY(-50%);
             transform: translateY(-50%);
             }
-
-            main {
-            position: relative;
-            }
-
-            .overlay {
-            position: absolute;
-            inset: 0;
-            background: linear-gradient(
-            45deg,
-            hsl(0, 100%, 50%),
-            hsl(60, 100%, 50%),
-            hsl(120, 100%, 50%),
-            hsl(180, 100%, 50%),
-            hsl(240, 100%, 50%),
-            hsl(300, 100%, 50%),
-            hsl(360, 100%, 50%)
-
-            pointer-events: none;
-            user-select: none;
-
-  /* JavaScript will make this visible. This ensures progressive enhancement */
-            opacity: var(--opacity, 0);
-
-            -webkit-mask: radial-gradient(
-             25rem 25rem at var(--x) var(--y),
-              #000 1%,
-               transparent 50%
-             );
-             mask: radial-gradient(
-               25rem 25rem at var(--x) var(--y),
-               #000 1%,
-               transparent 50%
-             );
-
-             /* smooooooth */
-             transition: 400ms mask ease;
-             will-change: mask;
-               );
-             border-color: white;
-            }
             </style>
 
            
@@ -97,9 +56,7 @@
   gtag('config', 'G-6V9Y5V0N0P');
 </script>
 
-    <body onload="foo()">
-        
-        <main id="main">
+    <body>
         <h1>Willkommen!</h1>
         <p>Die Seite ist jetzt auf Cloudflare gehostet!</p>
         <p>Bitte Option auswaehlen</p>
@@ -112,22 +69,8 @@
         <button onclick="parent.location='https://zvdxc.is-a.dev/wooshbird'" class="button button1">Spiel Wooshbird</button>
         </div>
         </div>
-    </main>
-    function <foo>()
-        {
-            //write function code here
-            const main = document.querySelector("#main");
-            const content = main.querySelector(":scope > *");
-            const clone = content.cloneNode(true);
-            const overlay = document.querySelector(".overlay");
-            overlay.insertAdjacentElement("beforeend", clone);
-        };
+     
 <a href="https://zvdxc.is-a.dev/site">Seitenquellcode ansehen</a>
 
-
-
-<div class="overlay" aria-hidden="true">
-    <!-- duplicate will go here -->
-  </div>
    </body>
  </html>
