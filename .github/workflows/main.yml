@@ -1,6 +1,5 @@
 name: Approve Pull Request
   # You may pin to the exact commit or the version.
-  # uses: juliangruber/approve-pull-request-action@b71c44ff142895ba07fad34389f1938a4e8ee7b0
   uses: juliangruber/approve-pull-request-action@v2.0.6
   with:
     # GitHub Token
