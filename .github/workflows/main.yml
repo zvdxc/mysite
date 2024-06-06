@@ -1,13 +1,12 @@
-            - name: Cloudflare Page Deploy
+            - name: Approve Pull Request
   # You may pin to the exact commit or the version.
-  # uses: Cyb3r-Jak3/actions-cloudflare-pages@a91ef3c3033d567371171de08188dadf7f78e192
-  uses: Cyb3r-Jak3/actions-cloudflare-pages@v1.0.1
+  # uses: juliangruber/approve-pull-request-action@b71c44ff142895ba07fad34389f1938a4e8ee7b0
+  uses: juliangruber/approve-pull-request-action@v2.0.6
   with:
-    # The account ID your domain, which can be found in the right sidebar of your domain's overview page on the Cloudflare dashboard.
-    account: d
-    # Name of the project to deploy. The repo/account must have been authorized through the Pages UI dash before
-    project: k
-    # The email address you registered your Cloudflare account with.
-    email: z@z.z
-    # Your Global Cloudflare API key.
-    global_token: test
+    # GitHub Token
+    github-token: 
+    # Pull Request number
+    number: 
+    # Pull Request repo in owner/repo format
+    repo: # optional
+          
