@@ -4,11 +4,10 @@
   uses: Cyb3r-Jak3/actions-cloudflare-pages@v1.0.1
   with:
     # The account ID your domain, which can be found in the right sidebar of your domain's overview page on the Cloudflare dashboard.
-    account: 
+    account: d
     # Name of the project to deploy. The repo/account must have been authorized through the Pages UI dash before
-    project: 
+    project: k
     # The email address you registered your Cloudflare account with.
-    email: 
+    email: z@z.z
     # Your Global Cloudflare API key.
-    global_token: 
-          
+    global_token: test
