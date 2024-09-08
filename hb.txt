@@ -1,0 +1,706 @@
+
+Rotbuche
+Botanischer Name:
+Fagus sylvatica
+Familie:
+Buchengewächse (Fagaceae)
+Blattbeschreibung:
+Die Blätter der Rotbuche sind einfach, elliptisch bis länglich und zugespitzt. Der Blattrand ist einfach gesägt, wobei die Zähne gleichmäßig groß sind. Die Blattnervatur ist gefiedert, die Seitennerven verlaufen gerade zum Blattrand. Die Blattunterseite ist mit feinen Härchen besetzt und fühlt sich dadurch weich an. Die Blattspreite ist relativ dünn und etwas ledrig.
+
+Bestimmungsschlüssel (Zahlverweise):
+Sind die Blätter einfach oder zusammengesetzt?
+Einfach: Gehe zu 2
+Zusammengesetzt: ...
+
+
+Ist der Blattrand gesägt oder glatt?
+Gesägt: Gehe zu 3
+Glatt: ...
+
+
+Sind die Blattzähne gleichmäßig groß oder unterschiedlich groß?
+Gleichmäßig groß: Gehe zu 4
+Unterschiedlich groß: ...
+
+
+Ist die Blattunterseite behaart?
+Ja: Rotbuche
+Nein: ...
+
+
+ 
+
+
+
+
+
+
+
+
+
+Hainbuche (Carpinus betulus)
+
+Deutscher Name: Hainbuche
+Botanischer Name: Carpinus betulus
+Familie: Birkengewächse (Betulaceae)
+Blattbeschreibung: Die Blätter der Hainbuche sind einfach, wechselständig und leicht gezähnt. Ihre Form ist elliptisch bis länglich, und die Spitze ist zugespitzt. Auffällig ist die doppelgesägte Blattspreite, d.h. die größeren Zähne sind wiederum selbst gezähnt. Die Blattunterseite ist oft leicht behaart.
+Bestimmungsschlüssel-Besonderheiten:
+
+
+Doppelgesägter Blattrand: Das ist ein sehr charakteristisches Merkmal der Hainbuche.
+Holz: Das Holz der Hainbuche ist sehr hart und wird oft mit Rotbuchenholz verwechselt.
+Knospen: Die Knospen der Hainbuche sind länglich und zugespitzt.
+
+
+Bestimmungsschlüssel für Laubbäume
+Sind die Blätter einfach oder zusammengesetzt?
+Einfach: Gehe zu 2
+Zusammengesetzt: ...
+
+
+Ist der Blattrand gesägt oder glatt?
+Gesägt: Gehe zu 3
+Glatt: ...
+
+
+Sind die Blattzähne gleichmäßig groß oder unterschiedlich groß?
+Gleichmäßig groß: Gehe zu 4
+Unterschiedlich groß (doppelgesägt): Hainbuche (Carpinus betulus)
+Ist die Blattunterseite behaart?
+Ja: Rotbuche (Fagus sylvatica)
+Nein: Gehe zu 5
+
+Wichtige Unterscheidungsmerkmale:
+Doppelgesägter Blattrand: Die Hainbuche hat einen doppelgesägten Blattrand, während die Rotbuche einen einfach gesägten Blattrand hat.
+Knospen: Die Knospen der Hainbuche sind länglicher und spitzer als die der Rotbuche.
+
+
+
+Edelkastanie (Castanea sativa)
+
+Deutscher Name: Edelkastanie
+Botanischer Name: Castanea sativa
+Familie: Buchengewächse (Fagaceae)
+Blattbeschreibung: Die Blätter der Edelkastanie sind länglich-lanzettlich und scharf gesägt. Die Blattspitze ist lang ausgezogen. Die Blattunterseite ist oft leicht behaart. Ein charakteristisches Merkmal sind die großen, oft stacheligen Früchte, die Kastanien.
+Bestimmungsschlüssel-Besonderheiten:
+
+
+Große, stachelige Früchte: Die Kastanien sind ein sehr auffälliges Merkmal.
+Länglich-lanzettliche Blätter: Die Blätter sind schmaler und länger als bei vielen anderen Laubbäumen.
+Blattrand: Der Blattrand ist scharf gesägt, die Zähne sind oft lang und spitz.
+
+
+Bestimmungsschlüssel:
+
+Sind die Blattzähne gleichmäßig groß oder unterschiedlich groß?
+Gleichmäßig groß: Gehe zu 4
+Unterschiedlich groß (doppelgesägt): Hainbuche (Carpinus betulus)
+
+
+Ist die Blattunterseite behaart?
+Ja: Rotbuche (Fagus sylvatica)
+Nein: Gehe zu 5
+
+
+Bildet der Baum große, stachelige Früchte?
+Ja: Edelkastanie (Castanea sativa)
+Nein: Gehe zu 6
+
+
+Weitere Merkmale, die zur Unterscheidung dienen können:
+Knospen: Die Knospen der Edelkastanie sind relativ groß und leicht behaart.
+Rinde: Die Rinde junger Edelkastanien ist glatt und glänzend, bei älteren Bäumen wird sie rissig.
+Warum die Edelkastanie leicht zu erkennen ist:
+Früchte: Die großen, stacheligen Früchte sind ein unverkennbares Merkmal.
+Blattform: Die länglich-lanzettlichen Blätter unterscheiden sie von vielen anderen Laubbäumen.
+
+
+
+Rosskastanie (Aesculus hippocastanum)
+
+Deutscher Name: Rosskastanie
+Botanischer Name: Aesculus hippocastanum
+Familie: Seifenbaumgewächse (Sapindaceae)
+Blattbeschreibung: Die Blätter der Rosskastanie sind groß und handförmig zusammengesetzt. Sie bestehen aus 5-7 einzelnen Fiederblättchen, die jeweils grob gesägt sind. Die Blattunterseite ist oft leicht behaart. Ein charakteristisches Merkmal sind die großen, glänzenden, braunen Samen (Kastanien), die in stacheligen Kapseln eingeschlossen sind.
+Bestimmungsschlüssel-Vorschläge:
+
+
+Handförmig zusammengesetzte Blätter: Das ist ein sehr auffälliges Merkmal.
+Große, glänzende Samen: Die Kastanien sind deutlich größer als die der Edelkastanie und haben eine glatte Oberfläche.
+Stachelige Fruchtkapsel: Die Kapsel, in der die Samen sitzen, ist mit zahlreichen Stacheln besetzt.
+
+
+Integration in den Bestimmungsschlüssel:
+Da die Rosskastanie zusammengesetzte Blätter hat, müssen wir den Bestimmungsschlüssel an dieser Stelle erweitern.
+Beispiel:
+Sind die Blätter einfach oder zusammengesetzt?
+Einfach: Gehe zu 2
+Zusammengesetzt: Gehe zu 7
+
+
+... (weiter wie bisher)
+Sind die Blätter handförmig zusammengesetzt?
+Ja: Rosskastanie (Aesculus hippocastanum)
+Nein: ... (z.B. Federbusch, Walnuss)
+
+
+Weitere Merkmale, die zur Unterscheidung dienen können:
+Knospen: Die Knospen der Rosskastanie sind groß und klebrig.
+Rinde: Die Rinde junger Bäume ist glatt und glänzend, bei älteren Bäumen wird sie rissig.
+Warum die Rosskastanie leicht zu erkennen ist:
+Handförmige Blätter: Diese sind sehr charakteristisch.
+Große, glänzende Samen: Die Kastanien sind unverwechselbar.
+Stachelige Fruchtkapsel: Die Kapsel ist ein weiteres auffälliges Merkmal.
+
+
+
+Stieleiche (Quercus robur)
+
+Deutscher Name: Stieleiche, Deutsche Eiche, Sommereiche Botanischer Name: Quercus robur Familie: Buchengewächse (Fagaceae)
+Blattbeschreibung:
+Form: Gelappt, wobei die Lappen abgerundet sind.
+Rand: Tief gesägt, die Zähne sind abgerundet.
+Oberseite: Glatt und glänzend dunkelgrün.
+Unterseite: Heller grün und oft leicht behaart, vor allem entlang der Blattadern.
+Stiel: Deutlich länger als die Hälfte der Blattspreite.
+Bestimmungsschlüssel-Vorschläge:
+Gelappte Blätter: Ein charakteristisches Merkmal für viele Eichenarten.
+Lange Blattstiele: Unterscheidet die Stieleiche von der Traubeneiche.
+Eicheln an langen Stielen: Ein weiteres auffälliges Merkmal.
+
+
+Sind die Blattzähne gleichmäßig groß oder unterschiedlich groß?
+Gleichmäßig groß: Gehe zu 4
+Unterschiedlich groß (doppelgesägt): Hainbuche (Carpinus betulus)
+
+
+Ist das Blatt gelappt?
+Ja: Gehe zu 5
+Nein: ... (z.B. Buche, Birke)
+
+
+Ist der Blattstiel deutlich länger als die Hälfte der Blattspreite?
+Ja: Stieleiche (Quercus robur)
+Nein: Traubeneiche (Quercus petraea)
+
+
+Weitere Merkmale, die zur Unterscheidung dienen können:
+Rinde: Tief gefurcht bei älteren Bäumen.
+Knospen: Kugelig und braun.
+Eicheln: Sitzen an langen Stielen.
+Warum die Stieleiche leicht zu erkennen ist:
+Lange Blattstiele: Ein sehr charakteristisches Merkmal.
+Gelappte Blätter: Typisch für Eichen.
+Eicheln an langen Stielen: Ein weiteres auffälliges Merkmal.
+
+
+
+
+
+
+
+Traubeneiche (Quercus petraea)
+
+Deutscher Name: Traubeneiche, Wintereiche Botanischer Name: Quercus petraea Familie: Buchengewächse (Fagaceae)
+Blattbeschreibung:
+Form: Ähnlich wie die Stieleiche, jedoch oft etwas schmaler und weniger tief gelappt.
+Rand: Tief gesägt, die Zähne sind meist spitzer als bei der Stieleiche.
+Oberseite: Glatt und glänzend dunkelgrün.
+Unterseite: Heller grün und oft leicht behaart, vor allem entlang der Blattadern.
+Stiel: Deutlich kürzer als die Hälfte der Blattspreite, oft fast sitzend.
+Bestimmungsschlüssel-Vorschläge:
+Gelappte Blätter: Ein charakteristisches Merkmal für viele Eichenarten.
+Kürzere Blattstiele: Unterscheidet die Traubeneiche von der Stieleiche.
+Eicheln meist sitzend: Die Eicheln sitzen oft direkt am Zweig, ohne einen langen Stiel.
+
+Ist der Blattstiel deutlich länger als die Hälfte der Blattspreite?
+Ja: Stieleiche (Quercus robur)
+Nein: Traubeneiche (Quercus petraea)
+
+
+Weitere Merkmale, die zur Unterscheidung dienen können:
+Rinde: Ähnlich wie bei der Stieleiche, jedoch oft etwas glatter.
+Knospen: Eher zugespitzt als kugelig.
+Eicheln: Meist sitzend oder an sehr kurzen Stielen.
+Warum die Traubeneiche leicht zu erkennen ist:
+Kürzere Blattstiele: Ein wichtiges Unterscheidungsmerkmal zur Stieleiche.
+Oft sitzende Eicheln: Ein weiteres auffälliges Merkmal.
+Schmalere, weniger tief gelappte Blätter: Im Vergleich zur Stieleiche.
+
+
+
+
+
+
+
+
+
+
+
+
+Schwarzerle (Alnus glutinosa)
+
+Deutscher Name: Schwarzerle, Kleberle Botanischer Name: Alnus glutinosa 
+Familie: Birkengewächse (Betulaceae)
+Blattbeschreibung:
+Form: Rundlich bis eiförmig.
+Rand: Einfach gesägt, die Zähne sind abgerundet.
+Oberseite: Dunkelgrün und glänzend, oft etwas klebrig bei jungen Blättern.
+Unterseite: Heller grün und oft leicht behaart.
+Knospen: Dunkelbraun und etwas klebrig.
+Bestimmungsschlüssel-Vorschläge:
+Rundliche bis eiförmige Blätter: Unterscheidet die Erle von den meisten anderen heimischen Bäumen mit gesägten Blättern.
+Einfach gesägte Blätter: Die Zähne sind abgerundet und nicht so tief wie bei vielen anderen Bäumen.
+Klebrige Blätter und Knospen: Besonders bei jungen Blättern und Knospen.
+
+
+Sind die Blattzähne gleichmäßig groß oder unterschiedlich groß?
+Gleichmäßig groß: Gehe zu 4
+Unterschiedlich groß (doppelgesägt): Hainbuche (Carpinus betulus)
+
+
+Ist das Blatt gelappt?
+Ja: Gehe zu 5
+Nein: Gehe zu 6
+
+
+Ist das Blatt rundlich oder eiförmig?
+Ja: Schwarzerle (Alnus glutinosa)
+Nein: ... (z.B. Buche, Birke)
+
+
+Weitere Merkmale, die zur Unterscheidung dienen können:
+Rinde: Dunkelbraun bis schwarz, oft rissig.
+Zapfen: Kleine, holzige Zapfen, die die Samen enthalten.
+Wurzeln: Bilden oft Knöllchen mit Stickstoff bindenden Bakterien.
+Warum die Schwarzerle leicht zu erkennen ist:
+Rundliche bis eiförmige Blätter: Sehr charakteristisch.
+Klebrige Blätter und Knospen: Besonders bei jungen Pflanzen.
+Typische Standorte: Oft an feuchten Standorten wie Uferbereichen zu finden.
+
+
+
+
+
+Eberesche (Sorbus aucuparia)
+Deutscher Name: Eberesche
+Botanischer Name: Sorbus aucuparia
+Familie: Rosengewächse (Rosaceae)
+Beschreibung
+Die Eberesche, auch Vogelbeere genannt, ist ein in Europa weit verbreiteter Baum oder Strauch. Sie ist besonders für ihre leuchtend roten Beeren im Herbst bekannt.
+Blattmerkmale:
+Form: Ungefähr unpaarig gefiedert, d.h. die Blätter bestehen aus mehreren einzelnen Blättchen, die an einer gemeinsamen Mittelrippe sitzen.
+Rand: Gesägt.
+Größe: Mittelgroß.
+Weitere Merkmale:
+Blüten: Weiße Blüten in großen, dichten Rispen.
+Früchte: Kleine, rote Beeren, die in großen Trauben hängen.
+Rinde: Glatt und grau bei jungen Bäumen, später rissig.
+Bestimmungsschlüssel-Vorschläge:
+Unpaarig gefiederte Blätter: Ein sehr charakteristisches Merkmal.
+Weiße Blüten in großen Rispen: Auffällig im Frühjahr.
+Rote Beeren im Herbst: Ein unverwechselbares Merkmal.
+
+Sind die Blätter einfach oder zusammengesetzt?
+Einfach: Gehe zu 2
+Zusammengesetzt: Gehe zu 7
+Sind die Blätter paarig gefiedert?
+Ja: ... (z.B. Esche)
+Nein: Gehe zu 8
+
+
+Sind die Blätter unpaarig gefiedert?
+Ja: Eberesche (Sorbus aucuparia)
+Nein: ... (z.B. Rosen)
+Warum die Eberesche leicht zu erkennen ist:
+Unpaarig gefiederte Blätter: Sehr charakteristisch.
+Weiße Blüten und rote Beeren: Auffällig in der jeweiligen Jahreszeit.
+Weitere Merkmale zur Unterscheidung:
+Wuchsform: Oft als Strauch oder kleiner Baum wachsend.
+Standort: Kommt auf verschiedenen Standorten vor, ist aber oft in Wäldern und an Waldrändern zu finden.
+Feldahorn (Acer campestre)
+
+Deutscher Name: Feldahorn, Maßholder 
+Lateinischer Name: Acer campestre 
+Familie: Ahorngewächse (Aceraceae)
+Beschreibung:
+Der Feldahorn ist ein in Europa heimischer Laubbaum, der häufig in Wäldern, Hecken und als Straßenbaum anzutreffen ist.
+Blätter: Gegenständig angeordnet, fünf- bis siebenlappig, Lappen stumpf und ungleichmäßig gezähnt.
+Rinde: In der Jugend glatt und grau, später netzförmig rissig.
+Früchte: Gepaarte, geflügelte Samen (Spaltfrüchte) mit stumpfem Winkel.
+Wuchs: Meist als mittelgroßer Baum oder Strauch wachsend.
+Bestimmungsschlüssel:
+Gegenständige Blätter: Ein wichtiges Unterscheidungsmerkmal zu vielen anderen Laubbäumen.
+Fünf- bis siebenlappige Blätter: Die Blätter sind deutlich gelappt, aber die Lappen sind stumpfer als beim Spitzahorn.
+Stumpfwinklige Spaltfrüchte: Die Flügel der Samen stehen in einem stumpfen Winkel zueinander.
+Familie der Ahorngewächse (Aceraceae)
+Die Ahorngewächse sind eine Pflanzenfamilie, zu der weltweit etwa 150 Arten gehören. Die meisten Arten sind Bäume, einige wenige auch Sträucher. Charakteristisch für die Familie sind die gegenständigen Blätter und die geflügelten Samen.
+Integration in den Bestimmungsschlüssel:
+Da der Feldahorn zu den Ahorngewächsen gehört, deren Vertreter alle gegenständige Blätter haben, kann er in einem Bestimmungsschlüssel an einer Stelle platziert werden, an der man bereits zwischen Bäumen mit gegenständigen und wechselständigen Blättern unterscheidet.
+Beispiel:
+Sind die Blätter gegenständig oder wechselständig?
+Gegenständig: Gehe zu 3 (Ahorngewächse)
+Wechselständig: ... (z.B. Buchengewächse, Birkengewächse)
+Sind die Blätter gelappt?
+Ja: Gehe zu 4
+Nein: ... (z.B. Esche)
+
+
+Sind die Lappen spitz und tief eingeschnitten?
+Ja: Spitzahorn (Acer platanoides)
+Nein: Feldahorn (Acer campestre)
+
+
+Warum der Feldahorn leicht zu erkennen ist:
+Gegenständige Blätter: Ein eindeutiges Merkmal für alle Ahornarten.
+Stumpfe Blattlappen: Unterscheidet ihn vom Spitzahorn.
+Stumpfwinklige Spaltfrüchte: Ein weiteres wichtiges Merkmal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bergahorn (Acer pseudoplatanus)
+Deutscher Name: Bergahorn
+Lateinischer Name: Acer pseudoplatanus
+Familie: Ahorngewächse (Aceraceae)
+Der Bergahorn ist ein stattlicher Laubbaum, der häufig in unseren Wäldern und Parks anzutreffen ist. Er wird oft mit dem Spitzahorn verwechselt, weist aber einige charakteristische Unterschiede auf.
+Blätter: Gegenständig angeordnet, fünf- bis siebenlappig, Lappen spitz und tief eingeschnitten.
+Rinde: In der Jugend glatt und graugrün, später schuppt sich die Rinde in großen Platten ab, was ein typisches Merkmal ist.
+Früchte: Gepaarte, geflügelte Samen (Spaltfrüchte) mit einem stumpfen Winkel zwischen den Flügeln.
+Wuchs: Kann sehr groß werden und eine breite Krone ausbilden.
+Bestimmungsschlüssel
+Gegenständige Blätter: Wie beim Feldahorn sind die Blätter auch beim Bergahorn gegenständig angeordnet.
+Fünf- bis siebenlappige Blätter: Die Blätter sind deutlich gelappt, wobei die Lappen spitzer und tiefer eingeschnitten sind als beim Feldahorn.
+Abblätternde Rinde: Die charakteristische, schuppige Rinde ist ein wichtiges Unterscheidungsmerkmal.
+Stumpfwinklige Spaltfrüchte: Die Flügel der Samen stehen in einem stumpfen Winkel zueinander.
+Familie der Ahorngewächse (Aceraceae)
+Wie der Feldahorn gehört auch der Bergahorn zur Familie der Ahorngewächse. Die gemeinsamen Merkmale dieser Familie sind die gegenständigen Blätter und die geflügelten Samen.
+Integration in den Bestimmungsschlüssel
+Da der Bergahorn zu den Ahorngewächsen gehört, kann er in den gleichen Bestimmungsschlüssel wie der Feldahorn eingeordnet werden.
+
+
+Gegenständig: Gehe zu 3 (Ahorngewächse)
+Wechselständig: ... (z.B. Buchengewächse, Birkengewächse)
+Sind die Blätter gelappt?
+Ja: Gehe zu 4
+Nein: ... (z.B. Esche)
+
+
+Sind die Lappen spitz und tief eingeschnitten?
+Ja: Bergahorn (Acer pseudoplatanus)
+Nein: Feldahorn (Acer campestre)
+
+
+Vergleich mit dem Feldahorn
+Merkmal
+Feldahorn
+Bergahorn
+Blattlappen
+Stumpf, ungleichmäßig gezähnt
+Spitz, tief eingeschnitten
+Rinde
+Netzförmig rissig
+Schuppenförmig abblätternd
+Häufigkeit
+Häufig in Hecken und als Straßenbaum
+Häufig in Wäldern
+
+
+Warum der Bergahorn leicht zu erkennen ist
+Abblätternde Rinde: Ein sehr auffälliges Merkmal.
+Spitze Blattlappen: Unterscheidet ihn deutlich vom Feldahorn.
+Größe: Oft ein stattlicher Baum.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spitzahorn (Acer platanoides)
+
+Deutscher Name: Spitzahorn
+Lateinischer Name: Acer platanoides
+Familie: Seifenbaumgewächse (Sapindaceae)
+Der Spitzahorn, auch Spitzblättriger Ahorn genannt, ist ein majestätischer Laubbaum, der häufig in unseren Wäldern und Parks anzutreffen ist. Er gehört zur Familie der Seifenbaumgewächse (Sapindaceae) und ist eng mit dem Bergahorn verwandt.
+Beschreibung
+Blätter: Gegenständig angeordnet, fünf- bis siebenlappig. Die Lappen sind spitz und tief eingeschnitten, was dem Baum seinen Namen gibt.
+Rinde: In der Jugend glatt und graubraun, später längsrissig.
+Früchte: Gepaarte, geflügelte Samen (Spaltfrüchte) mit einem spitzen Winkel zwischen den Flügeln.
+Wuchs: Kann sehr groß werden und eine breite, dichte Krone ausbilden.
+Bestimmungsschlüssel
+Gegenständige Blätter: Wie beim Bergahorn und Feldahorn sind die Blätter auch beim Spitzahorn gegenständig angeordnet.
+Fünf- bis siebenlappige Blätter: Die Blätter sind deutlich gelappt, wobei die Lappen spitzer und tiefer eingeschnitten sind als beim Feldahorn.
+Milchsaft: Ein charakteristisches Merkmal ist der milchige Saft, der austritt, wenn man einen Zweig bricht.
+Spitzwinklige Spaltfrüchte: Die Flügel der Samen stehen in einem spitzen Winkel zueinander.
+Familie der Seifenbaumgewächse (Sapindaceae)
+Die Seifenbaumgewächse sind eine große Pflanzenfamilie, zu der neben den Ahorngewächsen auch andere bekannte Pflanzen wie die Kastanien gehören.
+Vergleich mit dem Bergahorn
+Merkmal
+Bergahorn
+Spitzahorn
+Blattlappen
+Spitz, tief eingeschnitten
+Spitz, tief eingeschnitten
+Rinde
+Schuppenförmig abblätternd
+Längsrissig
+Milchsaft
+Nein
+Ja
+Spaltfrüchte
+Stumpfwinklig
+Spitzwinklig
+
+
+Warum der Spitzahorn leicht zu erkennen ist
+Milchsaft: Ein eindeutiges Unterscheidungsmerkmal zu anderen Ahornarten.
+Spitze Blattlappen: Der Name verrät es schon: Die Blätter sind sehr spitz.
+Spitzwinklige Spaltfrüchte: Ein weiteres wichtiges Merkmal.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Robinie (Robinia pseudoacacia)
+
+Deutscher Name: Robinie, Scheinakazie 
+Lateinischer Name: Robinia pseudoacacia 
+Familie: Hülsenfrüchtler (Fabaceae)
+
+
+Blatt: Unpaarig gefiedert, besteht aus zahlreichen kleinen, ovalen Blättchen.
+Bestimmungsschlüssel:
+
+
+Blätter: Sind die Blätter einfach oder zusammengesetzt?
+Einfach: Gehe zu 2
+Zusammengesetzt: Gehe zu 3
+
+
+... (andere Baumarten mit einfachen Blättern)
+
+
+Zusammengesetzte Blätter: Sind die Blättchen gegenständig oder wechselständig angeordnet?
+Gegenständig: ... (andere Baumarten mit gegenständigen, zusammengesetzten Blättern)
+Wechselständig: Gehe zu 4
+
+
+Wechselständige Blättchen: Sind die Blätter unpaarig gefiedert und tragen Dornen?
+Nein: ... (andere Baumarten mit unpaarig gefiederten Blättern)
+Ja: Robinie (Robinia pseudoacacia)
+
+
+Zusätzliche Merkmale zur Unterscheidung:
+Blüten: Weiße, duftende Blüten in hängenden Trauben.
+Früchte: Lange, braune Hülsenfrüchte.
+Rinde: Anfangs glatt und grünlich, später rissig und dunkelbraun.
+Dornen: Junge Zweige oft mit Dornen besetzt.
+
+
+
+
+
+
+
+
+
+
+
+Walnuss (Juglans regia )
+Deutscher Name: Walnuss 
+Lateinischer Name: Juglans regia 
+Familie: Walnussgewächse (Juglandaceae)
+
+
+Blatt: Unpaarig gefiedert, besteht aus mehreren paarweise gegenständigen, länglich-ovalen Fiederblättchen.
+Bestimmungsschlüssel:
+
+
+Blätter: Sind die Blätter einfach oder zusammengesetzt?
+Einfach: Gehe zu 2
+Zusammengesetzt: Gehe zu 3
+
+
+... (andere Baumarten mit einfachen Blättern)
+
+
+Zusammengesetzte Blätter: Sind die Blättchen gegenständig oder wechselständig angeordnet?
+Wechselständig: ... (andere Baumarten mit wechselständigen, zusammengesetzten Blättern)
+Gegenständig: Gehe zu 4
+
+
+Gegenständige Blättchen: Sind die Blätter unpaarig gefiedert und haben die Bäume große, runde Früchte mit einer harten Schale?
+Nein: ... (andere Baumarten mit gegenständigen, unpaarig gefiederten Blättern)
+Ja: Walnuss (Juglans regia)
+
+
+Zusätzliche Merkmale zur Unterscheidung:
+Knospen: Große, dicke, behaarte Knospen.
+Rinde: Graubraun, tief gefurcht.
+Früchte: Große, runde Nussfrüchte mit einer harten Schale, umgeben von einem grünen Fruchtfleisch.
+
+
+
+
+
+
+
+
+
+
+
+Apfelbaum (Malus domestica)
+Deutscher Name: Apfelbaum 
+Lateinischer Name: Malus domestica 
+Familie: Rosengewächse (Rosaceae)
+Blatt: Einfach, oval bis länglich, oft leicht gesägt.
+
+
+
+Bestimmungsschlüssel:
+
+
+Blätter: Sind die Blätter einfach oder zusammengesetzt?
+Einfach: Gehe zu 2
+Zusammengesetzt: ... (andere Baumarten mit zusammengesetzten Blättern, z.B. Walnuss, Robinie)
+
+
+Einfache Blätter: Sind die Blätter wechselständig oder gegenständig angeordnet?
+Gegenständig: ... (andere Baumarten mit gegenständigen, einfachen Blättern)
+Wechselständig: Gehe zu 3
+
+
+Wechselständige Blätter: Haben die Bäume im Frühjahr weiße oder rosafarbene Blüten in Doldenrispen und entwickeln im Herbst apfelförmige Früchte?
+Nein: ... (andere Baumarten mit wechselständigen, einfachen Blättern)
+Ja: Apfelbaum (Malus domestica)
+
+
+Zusätzliche Merkmale zur Unterscheidung:
+Blüten: Weiß oder rosa, in Doldenrispen angeordnet.
+Früchte: Apfelförmig, in zahlreichen Sorten und Farben.
+Rinde: Meist glatt und grau, kann bei älteren Bäumen rissig werden.
+Warum ist der Apfelbaum leicht zu erkennen?
+Die einfachen, wechselständigen Blätter sind typisch.
+Die weißen oder rosafarbenen Blüten in Doldenrispen sind charakteristisch.
+Die apfelförmigen Früchte sind unverwechselbar.
+
+
+
+
+
+
+Platane (Platanus x hispanica )
+Deutscher Name: Platane 
+Lateinischer Name: Platanus x hispanica (Hybrid aus Platanus orientalis und Platanus occidentalis) 
+Familie: Platanengewächse (Platanaceae)
+Blatt: Groß, gelappt, ähnlich wie Ahornblätter.
+Bestimmungsschlüssel:
+
+
+Blätter: Sind die Blätter einfach oder zusammengesetzt?
+Einfach: Gehe zu 2
+Zusammengesetzt: ... (andere Baumarten mit zusammengesetzten Blättern, z.B. Walnuss, Robinie)
+
+
+Einfache Blätter: Sind die Blätter wechselständig oder gegenständig angeordnet?
+Gegenständig: ... (andere Baumarten mit gegenständigen, einfachen Blättern)
+Wechselständig: Gehe zu 3
+
+
+Wechselständige Blätter: Haben die Bäume große, gelappte Blätter und eine auffällige, abblätternde Rinde?
+Nein: ... (andere Baumarten mit wechselständigen, einfachen Blättern)
+Ja: Platane (Platanus x hispanica)
+
+
+Zusätzliche Merkmale zur Unterscheidung:
+Rinde: Glatt und hell, blättert in großen Platten ab und hinterlässt ein charakteristisches Muster.
+Fruchtstände: Kugelförmige, hängende Fruchtstände.
+Wuchs: Großer Baum mit breiter Krone.
+
+
+Warum ist die Platane leicht zu erkennen?
+Die großen, gelappten Blätter sind unverwechselbar.
+Die auffällige, abblätternde Rinde ist ein charakteristisches Merkmal.
+Die großen, kugelförmigen Fruchtstände sind einzigartig.
+Hinweis: Die Platane, die in unseren Gärten und Parks am häufigsten vorkommt, ist meist eine Hybridform (Platanus x hispanica). Es gibt jedoch auch andere Platanenarten.
