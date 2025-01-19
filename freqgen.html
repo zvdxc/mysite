@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Frequency Generator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        label {
+            margin-right: 10px;
+        }
+
+        select, input {
+            margin-bottom: 10px;
+            padding: 5px;
+        }
+
+        button {
+            margin-right: 10px;
+            padding: 5px 10px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <h1>Frequency Generator</h1>
+    <label for="waveform">Select Waveform:</label>
+    <select id="waveform">
+        <option value="sine">Sine</option>
+        <option value="square">Square</option>
+        <option value="triangle">Triangle</option>
+        <option value="sawtooth">Sawtooth</option>
+    </select>
+    <br>
+    <label for="frequency">Frequency (Hz):</label>
+    <input type="number" id="frequency" value="440" min="20" max="20000">
+    <br>
+    <button id="play">Play</button>
+    <button id="stop">Stop</button>
+    <br>
+    <label for="volume">Volume:</label>
+    <input type="range" id="volume" value="100" min="0" max="100">
+    <script>
+        const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+        let oscillator;
+        let gainNode;
+
+        document.getElementById('play').addEventListener('click', () => {
+            const waveform = document.getElementById('waveform').value;
+            const frequency = parseFloat(document.getElementById('frequency').value);
+            const volume = parseFloat(document.getElementById('volume').value) / 100;
+
+            gainNode = audioContext.createGain();
+            gainNode.gain.value = volume;
+            gainNode.connect(audioContext.destination);
+
+            oscillator = audioContext.createOscillator();
+            oscillator.type = waveform;
+            oscillator.frequency.setValueAtTime(frequency, audioContext.currentTime);
+            oscillator.connect(gainNode);
+            oscillator.start();
+        });
+
+        document.getElementById('stop').addEventListener('click', () => {
+            if (oscillator) {
+                oscillator.stop();
+                oscillator.disconnect();
+            }
+        });
+
+        document.getElementById('volume').addEventListener('input', (event) => {
+            if (gainNode) {
+                gainNode.gain.value = event.target.value / 100;
+            }
+        });
+    </script>
+</body>
+</html>
